@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/react-movie-app-practice.git/static/js/main.998c753c.js",
-    "index.html": "/react-movie-app-practice.git/index.html",
-    "main.998c753c.js.map": "/react-movie-app-practice.git/static/js/main.998c753c.js.map"
+    "main.js": "/react-movie-app-practice/static/js/main.998c753c.js",
+    "index.html": "/react-movie-app-practice/index.html",
+    "main.998c753c.js.map": "/react-movie-app-practice/static/js/main.998c753c.js.map"
   },
   "entrypoints": [
     "static/js/main.998c753c.js"
